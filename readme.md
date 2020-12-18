@@ -4,7 +4,7 @@
 
 
 <br><br><p align="center">
-  <img width="75%" height="75%" src="https://github.com/Nouvellie/ubuntu-20.04/blob/main/contents/img/ubuntu-logo-20.04.jpg" alt="Ubuntu Logo 20.04">
+  <img width="75%" height="75%" src="https://github.com/Nouvellie/angular-lol/blob/main/contents/img/anivia.png" alt="Anivia Wallpaper">
 </p>
 
 <br><br>
