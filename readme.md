@@ -1,6 +1,6 @@
 # ANGULAR FOR LEAGUE OF LEGENDS
 
-- [Install.](https://..)
+- [Install.](https://github.com/Nouvellie/angular-lol/blob/main/contents/install.md)
 
 
 <br><br><p align="center">
