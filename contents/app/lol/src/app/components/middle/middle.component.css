@@ -1,0 +1,27 @@
+/*.middle {
+	position: absolute;
+	top: 30%;
+	left:20%;
+	right: 20%;
+	bottom: 30%;
+}
+
+.nouve {
+	font-size: 100px;
+	left: 50%;
+	right: 50%;
+}
+*/
+
+.middle {
+	width: 100px;
+	height: 100px;
+	
+	position: absolute;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+  	
+	margin: auto;
+}

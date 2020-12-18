@@ -45,7 +45,7 @@ $ jupyter lab
 ## Install bootstrap, jquery and popperjs
 
 ```sh
-$ sudo npm install bootstrap jquery @popperjs/core
+$ sudo npm i bootstrap jquery @popperjs/core
 ```
 
 ## [angular.json]
@@ -53,7 +53,7 @@ $ sudo npm install bootstrap jquery @popperjs/core
 ```js
 "styles": [
   "node_modules/bootstrap/dist/css/bootstrap.min.css",
-  "src/styles.scss"
+  "src/styles.css"
 ],
 "scripts": [
   "node_modules/jquery/dist/jquery.min.js",
@@ -61,3 +61,15 @@ $ sudo npm install bootstrap jquery @popperjs/core
   "node_modules/bootstrap/dist/js/bootstrap.min.js"
 ]
 ```
+
+## HttpClientModule error.
+
+This likely means that the library (@angular/common/http) which declares HttpClientModule has not been processed correctly by ngcc.
+
+```sh
+$ sudo npm cache verify
+```
+
+## Finished
+
+The project just can't be done, because the RIOT API and requests can't be sent from Angular.
